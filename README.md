@@ -1,4 +1,4 @@
-### Hi there I'm Halil :blush: 👨‍👨‍👦‍👦 👋
+### Hi there I'm Halil :blush:  👋
 
 ## React && Vue Developer
 
