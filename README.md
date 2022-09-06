@@ -2,9 +2,6 @@
 
 ## React && Vue Developer
 
-<div align="center">
-<img src="./profile-3d-contrib/profile-gitblock.svg"/>
-</div>
 
 - 🔭 I’m currently studying at Clarusway.
 - 🌱 I’m currently learning JavaScript, ReactJS and VueJS.
