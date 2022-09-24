@@ -1,6 +1,6 @@
 ### Hi there I'm Halil :blush:  👋
 
-## React && Vue Developer
+## Fulll Stack Web Developer
 
 
 - 🔭 I’m currently studying at Clarusway.
